@@ -9,7 +9,7 @@ img {
 
 .kitty-2
 
-/*__write_selector_here__*/ {
+img {
   position: absolute;
   z-index: 2;
   top: 212px;
